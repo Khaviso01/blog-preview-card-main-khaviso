@@ -38,7 +38,7 @@ body {
 
 .learning {
     background-color: hsl(47, 88%, 63%);
-    font-weight: 700;
+    font-weight: 500;
     padding: 4px 10px;
     border-radius: 0.3rem;
     margin-top: 20px;
@@ -55,7 +55,7 @@ body {
 a {
     font-size: 18px;
     text-decoration: none;
-    font-weight: 700;
+    font-weight: 800;
     color:hsl(0, 0%, 7%);
 }
 
